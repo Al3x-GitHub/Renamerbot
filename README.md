@@ -2,9 +2,9 @@
 
 <img src="https://telegra.ph/file/0dd8229f7fb7da518aab0.jpg">
 
-<p align="center">
+<p align="center"><b>
     ─「 Deployement Support 」─
-</p> 
+</p></b>
 
 <details><summary>Deploy To Koyeb</summary>
 <p>
@@ -25,9 +25,9 @@
 
 
 
-<p align="center">
+<p align="center"><b>
     ─「 Configs 」─
-</p>
+</p></b>
 
 * `BOT_TOKEN`  - Get bot token from @BotFather
 
@@ -46,9 +46,9 @@
 * `START_PIC` - start message photo
 
 
-<p align="center">
+<p align="center"><b>
     ─「 Bot Commands 」─
-</p>
+</p></b>
 
 ```
 start - bot alive cheking
@@ -61,15 +61,25 @@ users - admin only
 broadcast - admin only
 ```
 
-<p align="center">
-    ─「 Credits 」─
-</p>
+<div align="center"><b>
+     ─「 Credits 」─
+</b>
 
-<a href="https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT"> 𝙿𝚢𝚛𝚘 𝙱𝚘𝚝𝚣𝙱𝚘𝚝𝚣 </a>
+ <a href="https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT">
+████████████████████████
+█▄─▄▄─█▄─█─▄█▄─▄▄▀█─▄▄─█
+██─▄▄▄██▄─▄███─▄─▄█─██─█
+▀▄▄▄▀▀▀▀▄▄▄▀▀▄▄▀▄▄▀▄▄▄▄▀
+████████████████████████
+█▄─▄─▀█─▄▄─█─▄─▄─█░▄▄░▄█
+██─▄─▀█─██─███─████▀▄█▀█
+▀▄▄▄▄▀▀▄▄▄▄▀▀▄▄▄▀▀▄▄▄▄▄▀ </a>
 
-<p align="center">
+</div>
+
+<p align="center"><b>
     ─「 Support & Updates 」─
-</p>
+</p></b>
 <div align="center">
 
 ![Support Cover](https://github.com/AL3X-Github/Resources/blob/main/Photos/Support.png)
