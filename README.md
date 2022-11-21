@@ -1,4 +1,4 @@
-<p align="center"> 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓 </p>
+<p align="center">𝐙𝐄𝐑𝐎 𝐓𝐖𝐎 𝐑𝐄𝐍𝐀𝐌𝐄𝐑 𝐁𝐎𝐓 </p>
 
 <img src="https://telegra.ph/file/0dd8229f7fb7da518aab0.jpg">
 
